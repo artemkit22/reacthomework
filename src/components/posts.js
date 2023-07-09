@@ -22,4 +22,4 @@
 // //
 // //     </div>)
 // // }
-// // export default Post
+// // export default Posts
